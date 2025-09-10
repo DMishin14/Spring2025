@@ -1,0 +1,18 @@
+# IDEA
+.idea/
+*.iml
+
+# Maven / Gradle
+target/
+build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# WAR/JAR
+*.war
+*.jar
